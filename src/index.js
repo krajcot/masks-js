@@ -4,4 +4,4 @@ function sayHiTo(name) {
 
 const message = sayHiTo('Bruno');
 
-console.log(message);
+console.log(message); // eslint-disable-line no-console
